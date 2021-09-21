@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with Deep Learning and ML models.
 -📫 How to reach me: ...https://twitter.com/VAIBHAVKUMARSR5
 -😅 GFG Profile: https://auth.geeksforgeeks.org/user/aryasrivastava36/profile
--
 - ⚡ Fun fact: ...(Binary to Real)--->(Real to Binary).
 
