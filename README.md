@@ -1,5 +1,6 @@
 ### Hi there I am Vaibhav Kumar Srivastava <<nick name arya>> 👋
-- 🧑‍🎓Associate Implementation Engineer at E2OPEN.
+- 🧑‍🎓 Implementation Engineer at E2OPEN.
+- https://github.com/Vaibhav123v
 - Done CSE from SRM university. 
 - 🔭 I’m currently working on Machine learning Models and Data Analysis.
 - 🌱 I’m currently learning Full Stack Development and Deep learning.
